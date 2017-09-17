@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1CCFD3EB6E99173D5778F5F138D796CB5639A518",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1CCFD3EB6E99173D5778F5F138D796CB5639A518" : 9223372036854775807,
+    "DC3A531F6261282B4FE67E5BE2DD7E6551CF8966" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C5C31DFF-8087-4DA6-B10F-8FD85D582F5B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1CCFD3EB6E99173D5778F5F138D796CB5639A518" : "iweb_p1\/",
+    "DC3A531F6261282B4FE67E5BE2DD7E6551CF8966" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Hola Mundo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Hola Mundo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sergiolopezdf\/iweb_p1",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1CCFD3EB6E99173D5778F5F138D796CB5639A518"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/juancarlosdiaztorres\/IWEB_P1",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DC3A531F6261282B4FE67E5BE2DD7E6551CF8966"
+    }
+  ]
+}
